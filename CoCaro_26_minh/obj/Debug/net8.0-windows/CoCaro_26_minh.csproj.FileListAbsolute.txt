@@ -1,0 +1,107 @@
+D:\LMS\Doan\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\LMS\Doan\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\LMS\Doan\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\LMS\Doan\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.frmGame_26_minh.resources
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\LMS\Doan\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\LMS\Doan - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\LMS\Doan - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\LMS\Doan - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.formGame_26_minh.resources
+D:\LMS\Doan - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.FormMenu_26_minh.resources
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.formGame_26_minh.resources
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.FormMenu_26_minh.resources
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\LMS\Doan - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.formGame_26_minh.resources
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.FormMenu_26_minh.resources
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\LMS\Doan - Copy - Copy - Copy\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.formGame_26_minh.resources
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.FormMenu_26_minh.resources
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\LMS\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.exe
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.deps.json
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.runtimeconfig.json
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\bin\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.formGame_26_minh.resources
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.FormMenu_26_minh.resources
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.Properties.Resources.resources
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.GenerateResource.cache
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfoInputs.cache
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.AssemblyInfo.cs
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.csproj.CoreCompileInputs.cache
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.dll
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\refint\CoCaro_26_minh.dll
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.pdb
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\CoCaro_26_minh.genruntimeconfig.cache
+D:\OneDrive - fpt\Desktop\26_minh_n2_gameCoCaro\26_minh_n2_gameCoCaro\CoCaro_26_minh\obj\Debug\net8.0-windows\ref\CoCaro_26_minh.dll

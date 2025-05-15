@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoCaro_26_minh/1.0.0": {
+        "runtime": {
+          "CoCaro_26_minh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoCaro_26_minh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
